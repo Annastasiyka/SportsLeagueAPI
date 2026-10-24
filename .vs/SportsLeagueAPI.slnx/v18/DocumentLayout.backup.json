@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\controllers\\playerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\repositories\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\repositories\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\repositories\\iplayerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\repositories\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\repositories\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|c:\\study\\5 course\\server web programing\\sportsleagueapi\\sportsleagueapi\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B95163-3215-452B-B99C-A084C4FBBD85}|SportsLeagueAPI\\SportsLeagueAPI.csproj|solutionrelative:sportsleagueapi\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1632631144:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1501236674:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129202288:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:693424232:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1591524255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128783328:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:79434111:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:427094058:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1198783461:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1557806852:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1516926246:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261024120619_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Migrations\\20261024120619_InitialCreate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T12:06:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayersController.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Controllers\\PlayersController.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Controllers\\PlayersController.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Controllers\\PlayersController.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Controllers\\PlayersController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T12:04:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Repositories\\PlayerRepository.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\PlayerRepository.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Repositories\\PlayerRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:56:31.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Program.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Program.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:52:05.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPlayerRepository.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\IPlayerRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Repositories\\IPlayerRepository.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\IPlayerRepository.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Repositories\\IPlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:56:13.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Controllers\\TeamsController.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:55:31.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Repositories\\TeamRepository.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\TeamRepository.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Repositories\\TeamRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:54:43.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Repositories\\ITeamRepository.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Repositories\\ITeamRepository.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Repositories\\ITeamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:54:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\appsettings.json",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\appsettings.json",
+              "RelativeToolTip": "SportsLeagueAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T11:51:48.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:51:36.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Models\\Player.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Models\\Player.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Models\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:51:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "SportsLeagueAPI\\Models\\Team.cs",
+              "ToolTip": "C:\\Study\\5 course\\Server Web programing\\SportsLeagueAPI\\SportsLeagueAPI\\Models\\Team.cs",
+              "RelativeToolTip": "SportsLeagueAPI\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T11:50:41.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
